@@ -5,6 +5,10 @@
     "**/.hg": true,
     "**/.DS_Store": true,
     "**/bin": true,
-    "**/obj": true
+    "**/obj": true,
+    "**/dist": true,
+    "**/tmp": true,
+    "**/project.lock.json": true,
+    "**/typings": true
   }
 }
